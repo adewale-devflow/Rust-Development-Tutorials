@@ -1,0 +1,1 @@
+C:\Users\User\OneDrive\Desktop\Rust\ Development\rust_tutorial\target\debug\rust_tutorial.exe: C:\Users\User\OneDrive\Desktop\Rust\ Development\rust_tutorial\src\main.rs C:\Users\User\OneDrive\Desktop\Rust\ Development\rust_tutorial\src\module_1_data_types_.rs
