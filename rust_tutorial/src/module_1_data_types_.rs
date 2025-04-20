@@ -160,7 +160,7 @@ pub fn tuple_destructuring_example(){
 }
 
 
-    pub fn demo(){
+pub fn demo(){
     println!("\n");
     primitive_data_type();
 
